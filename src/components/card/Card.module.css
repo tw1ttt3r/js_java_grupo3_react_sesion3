@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  box-sizing: border-box;
+  border: 1px solid pink;
+}
+
+.containerImg {
+  display: flex;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+}
