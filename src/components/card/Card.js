@@ -11,7 +11,7 @@ function Card(props) { // {data: "", className: ""} props.className
         <Imagen src={props.data.imagen} alt="persona" />
       </div>
       <Descripcion titulo={props.data.nombre} descripcion={props.data.descripcion} />
-      <Button />
+      <Button action={props.data.action} />
     </section>
   )
 }

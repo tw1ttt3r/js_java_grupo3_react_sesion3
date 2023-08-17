@@ -12,7 +12,7 @@ const Data = {
   imagen: "https://concepto.de/wp-content/uploads/2018/08/persona-e1533759204552.jpg",
   nombre: "Ramon",
   descripcion: "El es una persona sencilla y humilde",
-  action: ""
+  action: "Llamar"
 }
 
 function App() {
