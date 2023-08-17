@@ -3,6 +3,13 @@ import Button from "./button/Button";
 import Descripcion from "./descripcion/Descripcion";
 import styles from './Card.module.css';
 
+// {
+//   imagen: "https://concepto.de/wp-content/uploads/2018/08/persona-e1533759204552.jpg",
+//   nombre: "Ramon",
+//   descripcion: "El es una persona sencilla y humilde",
+//   action: "Llamar"
+// }
+
 function Card(props) { // {data: "", className: ""} props.className
 
   return (
